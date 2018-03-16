@@ -1,0 +1,24 @@
+{
+  "name": "agora-signaling-sdk",
+  "version": "2.1.1",
+  "description": "Agora Signaling SDK for web",
+  "main": "AgoraSignaling.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgoraIO/signaling_web_sdk.git"
+  },
+  "keywords": [
+    "Agora",
+    "Signaling",
+    "Javascript"
+  ],
+  "author": "agora",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/AgoraIO/signaling_web_sdk/issues"
+  },
+  "homepage": "https://github.com/AgoraIO/signaling_web_sdk#readme"
+}
