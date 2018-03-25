@@ -2,7 +2,7 @@
   "name": "agora-signaling-sdk",
   "version": "1.2.0",
   "description": "Agora Signaling SDK for web",
-  "main": "AgoraSignaling.min.js",
+  "main": "AgoraSigSDK.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
