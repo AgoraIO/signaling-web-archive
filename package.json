@@ -1,6 +1,6 @@
 {
   "name": "agora-signaling-sdk",
-  "version": "1.3.0",
+  "version": "1.3.3",
   "description": "Agora Signaling SDK for web",
   "main": "AgoraSigSDK.min.js",
   "scripts": {
